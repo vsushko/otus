@@ -1,2 +1,2 @@
-# otus
+# OTUS
 Open lessons materials
